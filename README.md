@@ -22,6 +22,6 @@ Next either open in the browser the address http://127.0.0.1:8000/ or you can op
 
 Usage Instructions:
 Click on the default dropdown and you should be able to use 3 functions.
-To test the API simply selecct a fucntion to try out and clikc the 'Try it out' button
+To test the API simply selecct a fucntion to try out and click the 'Try it out' button
 You will be prompted for the required parameters.
 All other usefull information about the API is also listed in this interface, along with the result.
